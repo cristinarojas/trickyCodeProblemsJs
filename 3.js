@@ -1,3 +1,4 @@
+// Detect the output of following code
 (function(x) {
   console.log('first IFFE');
   return (function(y) { // Im returning this function that inside have the console with 1
