@@ -1,3 +1,4 @@
+// About objects
 var myObject = {
     foo: "bar",
     func: function() {
