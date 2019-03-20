@@ -1,4 +1,4 @@
-// Function to know string.
+// Function to know string
 function isValid(str) {
   if (str.length <= 1) {
     return false;
