@@ -1,3 +1,4 @@
+// Know about the result of following code
 function test () {
   this.myProperty = 'javascriipt';
 
