@@ -1,4 +1,4 @@
-// Convert this string to camelCase ab-cd-ef
+// Convert this string to camelCase ab-cd-ef string
 function strCamelCase(str) {
 
   const convertedStr = str.split('-');
