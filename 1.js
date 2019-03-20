@@ -1,5 +1,4 @@
 // Use promise and arrow functions for the following code.
-
 console.log('uno');
 
 setTimeout(function(){
