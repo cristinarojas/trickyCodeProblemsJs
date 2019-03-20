@@ -1,4 +1,4 @@
-/* _.omit()
+/* _.omit() funtion
 var myObj = {a: 'test', b: 'test1', c: 'test2' }
 var newObj = _.omit(myObj, ['a', 'c']);
 // newObj = { b: 'test1' }
